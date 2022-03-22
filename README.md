@@ -1,6 +1,7 @@
 # Subsquid Community Repository
 
 Welcome to the Repository dedicated to our Community.
+
 ## Overview
 
 The Subsquid Community Repository is primarily going to be the right place for submitting contributions made by the Subsquid community members.
@@ -11,13 +12,7 @@ The ultimate goal is for this repository to be managed by the community itself, 
 
 ## Guideline for submissions
 
-- When submitting a deliverable for a Quest, please create a dedicated folder, named after the Quest title:
-
-  - "Helm charts for Squid Archives" => `squid archives helm charts`
-
-- Such folder should contain all the work done. How to best organize the subfolders structure is left to the contributor.
-
-- A Pull Request to the repository's `main` branch should be made.
+Please read and adhere to the guidelines expressed in [the contributing page](CONTRIBUTING.md).
 
 ## Bugs and improvements
 
